@@ -13,3 +13,6 @@
 <p>Imagem 3</p>
 
 ![alt text](/img/footer.png)
+
+### Link do site na vercel:
+<p>https://landing-page-cena.vercel.app/</p>
